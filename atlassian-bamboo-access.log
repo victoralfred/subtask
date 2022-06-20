@@ -1,0 +1,31 @@
+2022-06-14 10:27:42,203 INFO [localhost-startStop-1] [AccessLogFilter] AccessLogFilter initialized. Format is: <user> <url> <starting memory free (kb)> +- <difference in free mem (kb)> <query time (ms)>
+2022-06-14 10:28:00,314 INFO [http-nio-8085-exec-2] [AccessLogFilter] 0:0:0:0:0:0:0:1 GET http://localhost:8085/ 292221kb
+2022-06-14 10:28:00,486 INFO [http-nio-8085-exec-3] [AccessLogFilter] 0:0:0:0:0:0:0:1 GET http://localhost:8085/allPlans.action 215939kb
+2022-06-14 10:28:08,678 INFO [http-nio-8085-exec-7] [AccessLogFilter] 0:0:0:0:0:0:0:1 POST http://localhost:8085/rest/webResources/1.0/resources 687252kb
+2022-06-14 10:28:10,266 INFO [http-nio-8085-exec-9] [AccessLogFilter] 0:0:0:0:0:0:0:1 POST http://localhost:8085/rest/analytics/1.0/publish/bulk 670108kb
+2022-06-14 10:28:34,749 INFO [http-nio-8085-exec-13] [AccessLogFilter] 0:0:0:0:0:0:0:1 POST http://localhost:8085/ajax/viewPlanUpdates.action 495233kb
+2022-06-14 10:28:35,808 INFO [http-nio-8085-exec-14] [AccessLogFilter] 0:0:0:0:0:0:0:1 GET http://localhost:8085/userlogin!doDefault.action?os_destination=%2FallPlans.action 425659kb
+2022-06-14 10:28:36,330 INFO [http-nio-8085-exec-15] [AccessLogFilter] 0:0:0:0:0:0:0:1 POST http://localhost:8085/rest/webResources/1.0/resources 287009kb
+2022-06-14 10:28:36,374 INFO [http-nio-8085-exec-16] [AccessLogFilter] 0:0:0:0:0:0:0:1 GET http://localhost:8085/rest/menu/latest/appswitcher?_=1655195316266 264112kb
+2022-06-14 10:28:36,875 INFO [http-nio-8085-exec-18] [AccessLogFilter] 0:0:0:0:0:0:0:1 POST http://localhost:8085/rest/analytics/1.0/publish/bulk 209721kb
+2022-06-14 10:28:37,938 INFO [http-nio-8085-exec-20] [AccessLogFilter] admin GET http://localhost:8085/allPlans.action 674974kb
+2022-06-14 10:28:38,370 INFO [http-nio-8085-exec-21] [AccessLogFilter] admin POST http://localhost:8085/rest/webResources/1.0/resources 605264kb
+2022-06-14 10:28:38,465 INFO [http-nio-8085-exec-22] [AccessLogFilter] admin GET http://localhost:8085/rest/menu/latest/appswitcher?_=1655195318292 584578kb
+2022-06-14 10:28:38,470 INFO [http-nio-8085-exec-24] [AccessLogFilter] admin GET http://localhost:8085/rest/troubleshooting/1.0/check/admin?_=1655195318294 583717kb
+2022-06-14 10:28:38,968 INFO [http-nio-8085-exec-25] [AccessLogFilter] admin POST http://localhost:8085/rest/analytics/1.0/publish/bulk 510509kb
+2022-06-14 10:28:58,462 INFO [http-nio-8085-exec-4] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 506383kb
+2022-06-14 10:29:11,325 INFO [http-nio-8085-exec-8] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 501756kb
+2022-06-14 10:29:31,365 INFO [http-nio-8085-exec-9] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 498648kb
+2022-06-14 10:31:21,789 INFO [http-nio-8085-exec-21] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 419604kb
+2022-06-14 10:31:41,826 INFO [http-nio-8085-exec-23] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 416602kb
+2022-06-14 10:32:01,863 INFO [http-nio-8085-exec-25] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 412470kb
+2022-06-14 10:32:21,903 INFO [http-nio-8085-exec-4] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 410032kb
+2022-06-14 10:32:41,940 INFO [http-nio-8085-exec-3] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 402909kb
+2022-06-14 10:33:01,967 INFO [http-nio-8085-exec-8] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 399622kb
+2022-06-14 10:33:21,988 INFO [http-nio-8085-exec-10] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 397910kb
+2022-06-14 10:33:42,027 INFO [http-nio-8085-exec-11] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 389163kb
+2022-06-14 10:34:02,059 INFO [http-nio-8085-exec-14] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 386009kb
+2022-06-14 10:34:22,099 INFO [http-nio-8085-exec-16] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 384527kb
+2022-06-14 10:34:42,149 INFO [http-nio-8085-exec-18] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 382212kb
+2022-06-14 10:35:02,186 INFO [http-nio-8085-exec-21] [AccessLogFilter] admin POST http://localhost:8085/ajax/viewPlanUpdates.action 379271kb
+2022-06-14 10:44:15,834 INFO [localhost-startStop-1] [AccessLogFilter] AccessLogFilter initialized. Format is: <user> <url> <starting memory free (kb)> +- <difference in free mem (kb)> <query time (ms)>
